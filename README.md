@@ -4,7 +4,7 @@ A modern, full-stack expense tracking web application built with **Next.js**, **
 
 Track income and expenses, set monthly budgets with live progress tracking, and visualize spending habits with interactive charts — all protected by database-level Row-Level Security.
 
-🔗 **Live demo:** [https://YOUR-APP.vercel.app](https://YOUR-APP.vercel.app)
+🔗 **Live demo:** [https://expense-tracker-mo63ob54i-ruhamah-chioma1.vercel.app/**]
 
 ---
 
